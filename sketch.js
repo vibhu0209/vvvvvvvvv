@@ -190,7 +190,7 @@ function draw() {
     hobject1.tint = "white";
     hobject1.destroy();
     xobject1.visible = true;
-   // dog = 1; 
+   
      
       click -= 1;
       score += 100;
